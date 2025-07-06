@@ -519,7 +519,7 @@ classDiagram
 ```
 
 ### 5.2 全面测试用例集
-```c++
+```cpp
 // 指令长度测试用例
 TEST_CASE("AVX-512 Instruction Lengths") {
     // EVEX前缀指令
@@ -734,7 +734,7 @@ graph TD
 
 #### 跨平台内存访问适配器
 
-```c++
+```cpp
 class MemoryAdapter {
 public:
     virtual uint64_t read(uint64_t addr, size_t size) = 0;
