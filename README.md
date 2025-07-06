@@ -1,5 +1,5 @@
 # 🚀 C++ i386/AMD64平台汇编指令对齐长度获取实现
-**引用**：[fetch-x86-64-asm-il-size/main.cpp](https://github.com/liulilittle/fetch-x86-64-asm-il-size/main.cpp)
+**引用**：[fetch-x86-64-asm-il-size/main.cpp](https://github.com/liulilittle/fetch-x86-64-asm-il-size/blob/main/main.cpp)
 ## 🧠 一、处理器架构与指令集全景图
 
 ### 1.1 x86/x64架构深度演进
